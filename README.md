@@ -10,13 +10,13 @@ Three.js : https://threejs.org/
 
 
 
-<HOW TO PLAY>
+*HOW TO PLAY*
   
-  Move the ball when the doll is looking backwards and stop when doll looks forwards
+  Move the ball when the doll is looking backwards and stop when doll looks forwards 
   If you move when doll is facing front, YOU LOSE!
   TimeLimit: 10 sec
   
-  --CONTROLS--
+  *CONTROLS*
   ArrowUP key: Movement
     Hold: Move Forward
     Release: Stop
